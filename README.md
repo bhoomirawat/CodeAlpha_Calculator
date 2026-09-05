@@ -2,7 +2,9 @@
 
 A basic web-based calculator built using **HTML, CSS, and JavaScript**. It supports standard arithmetic operations with a clean, responsive UI.
 
-## 🖥️ Demo Preview Your site is live at https://bhoomirawat.github.io/CodeAlpha_Calculator/
+## 🖥️ Demo Preview
+
+Your site is live at https://bhoomirawat.github.io/CodeAlpha_Calculator/
 
 The calculator has a simple grid-based button layout with a display screen on top, styled with a soft purple theme.
 
